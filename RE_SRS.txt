@@ -1,0 +1,24 @@
+    SOFTWARE REQUIREMENTS ANALYSIS AND SPECIFICATION
+
+      •	A condition or capability that must be possessed by a system.
+      •	A complete specification of what the proposed system should do is SRS.
+      •	Requirement understanding is hard.
+      • Essential to do a proper analysis and specification of requirements.
+    PURPOSE OF SRS DOCUMENT
+      •	Users needs have to be satisfied,but user may not understand software.
+      •	Developers will develop the system,but may not know about problem domain.
+    CHARACTERISTICS OF AN SRS
+      •	Correctness
+        Each requirement accurately represents some desired  feature in the final system
+      •	Completeness
+        Hardest to satisfy
+      •	Unambiguous
+        Without this errors will creep in
+      •	Consistent
+        Two requirements don’t contradict each other
+      •	Verifiability
+        There must exists a cost effective way of checking if software satisfies requirements
+      •	Traceable
+        The origin of the requirement,and how the requirement relates to software elements              can be determined
+      •	Ranked for importance/stability
+        Needed for prioritizing in construction
